@@ -1,4 +1,4 @@
-package com.dsa.binarysearch;
+package com.dsa.binarysearch.onedarray;
 
 /*
 * // This is MountainArray's API interface.

@@ -1,4 +1,4 @@
-package com.dsa.binarysearch;
+package com.dsa.binarysearch.onedarray;
 
 import java.util.Scanner;
 

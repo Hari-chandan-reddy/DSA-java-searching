@@ -1,4 +1,4 @@
-package com.dsa.binarysearch;
+package com.dsa.binarysearch.onedarray;
 
 public class SearchingElementInInfiniteArray {
     public static void main(String[] args) {

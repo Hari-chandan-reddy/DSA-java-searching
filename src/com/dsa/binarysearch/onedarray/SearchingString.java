@@ -1,4 +1,4 @@
-package com.binarysearch;
+package com.dsa.binarysearch.onedarray;
 
 public class SearchingString {
 
